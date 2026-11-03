@@ -1,4 +1,4 @@
-## 👋 Bonjour, moi c'est Sandro Marin !
+## 👋 Bonjour, moi c'est PANGO !
 
 🎓 Je suis actuellement étudiant en BTS CIEL (Cybersécurité, Informatique et réseaux, Électronique) à Ozanam.
 
