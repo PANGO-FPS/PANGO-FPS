@@ -1,16 +1,22 @@
-## Hi there 👋
+## 👋 Bonjour, moi c'est Sandro Marin !
 
-<!--
-**PANGO-FPS/PANGO-FPS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Je suis actuellement étudiant en BTS CIEL (Cybersécurité, Informatique et réseaux, Électronique) à Ozanam.
 
-Here are some ideas to get you started:
+Après avoir obtenu mon baccalauréat STI2D, j'ai décidé de poursuivre mes études dans le domaine de l'informatique et des nouvelles technologies, un secteur qui me passionne particulièrement.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 Je m'intéresse notamment à :
+
+🔐 La cybersécurité et la sécurité des systèmes informatiques
+🌐 Les réseaux et les infrastructures informatiques
+💻 Le développement et la programmation
+🖥️ L'administration des systèmes et des réseaux
+
+🚀 Mon objectif : poursuivre mon parcours en intégrant une école d'ingénieurs spécialisée en cybersécurité afin d'approfondir mes compétences et de me préparer aux métiers de la sécurité informatique.
+
+Je suis motivé, curieux et toujours prêt à apprendre de nouvelles choses. À travers GitHub, je souhaite partager mes projets, mes travaux et mon évolution dans le monde de l'informatique.
+
+Bienvenue sur mon profil ! 😄
+
+## 📫 Me retrouver
+- 💼 Discord : pango4012
+- 🎯 Objectif : Devenir ingénieur en cybersécurité
